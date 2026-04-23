@@ -9,8 +9,7 @@
 * Configurable source order for containers and tool cupboards
 
 ## Dependency
-**Required:**
-- [Item Retriever](https://umod.org/plugins/item-retriever)
+**Required:** [Item Retriever](https://umod.org/plugins/item-retriever)
 
 ## Permissions
 * `havenusecontainers.use` 
