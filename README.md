@@ -144,3 +144,6 @@ Range permissions are set in the config, Example:
 
 **PermissionRanges**
 * Permission-based range overrides. If a player has more than one matching permission, the highest configured range is used.
+
+## Support
+If you want to support my work, you can donate [here](https://cathienova.net/donate/)
